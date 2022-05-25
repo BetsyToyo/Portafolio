@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;    
+}
+
+/*--Desactivando el scroll de boopstrap--*/
+html{
+    scroll-behavior: auto !important;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    color:#000000;
+    font-size: 18px;
+    background-color:  #ffffbf ;
+    
+}
+
+.navbar{
+    width:100%;   
+    max-width:100%;    
+}
+
+.linea-titulo{
+    color: #000000;
+}
+
+.rectangulo-azul{
+    background-color: #7d2181;
+
+}
+
+/*--Iconos Font awesome--*/
+
+.iconos{
+    color: #ffffbf;
+    font-size: 30px;
+    text-align: center;    
+}
+
+.card{
+    background-color: #7d2181;
+    color: #ffffbf
+}
+
+
+.redes-sociales{
+    background-color: #7d2181;
+}
+
+footer{
+    color: #ffffbf
+}
+
+      
